@@ -1,6 +1,6 @@
 {
   "name": "injct",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "description": "dependency injection for nodejs",
   "main": "lib/injct.js",
   "scripts": {
@@ -22,7 +22,7 @@
   "author": "Bruno Fuster",
   "license": "BSD",
   "dependencies": {
-    "mocha": "^5.2.0",
-    "underscore": "~1.9.1"
+    "mocha": "^11.7.5",
+    "underscore": "~1.13.7"
   }
 }

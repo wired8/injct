@@ -1,7 +1,7 @@
 var injct = require('../lib/injct.js')
     , assert = require('assert')
-    , Foo = require('./fixture/foo.js')
-    , Bar = require('./fixture/bar.js')
+    , Foo = require('./fixture/Foo.js')
+    , Bar = require('./fixture/Bar.js')
     , Unique = require('./fixture/unique.js')
     , Static = require('./fixture/static.js')
     , _ = require('underscore');
